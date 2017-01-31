@@ -1,0 +1,12 @@
+
+[squid:S1854":Remove this useless assignment to local variable "genres".(Ú—âÛùÿÿÿÿ8ğŒ‚Ÿ+
+\squid:S1854";Remove this useless assignment to local variable "author1".(Å‘úüÿÿÿÿ8ƒâ‚Ÿ+
+Usquid:S1854"9Remove this useless assignment to local variable "list1".(øíì‹8‰é¹‚Ÿ+
+Msquid:S1481",Remove this unused "author1" local variable.(Å‘úüÿÿÿÿ8ƒâ‚Ÿ+
+Tsquid:S1854"8Remove this useless assignment to local variable "list".(›ÍßÈ8¾ü‚Ÿ+
+Jsquid:S1481")Remove this unused "name" local variable.(ˆ¤Åÿøÿÿÿÿ8ƒâ‚Ÿ+
+Lsquid:S1481"+Remove this unused "genres" local variable.(Ú—âÛùÿÿÿÿ8ğŒ‚Ÿ+
+Ysquid:S1854"8Remove this useless assignment to local variable "name".(ˆ¤Åÿøÿÿÿÿ8ƒâ‚Ÿ+
+csquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(²Ú±
+Esquid:S1481")Remove this unused "list" local variable.(›ÍßÈ8¾ü‚Ÿ+
+Fsquid:S1481"*Remove this unused "list1" local variable.(øíì‹8‰é¹‚Ÿ+
